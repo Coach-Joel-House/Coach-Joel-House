@@ -1,4 +1,4 @@
-# Coach-Joel-House-
+# Coach-Joel-House
 
 ````markdown
 # ⚡ JOEL // SYSTEM INITIALIZATION
@@ -140,14 +140,6 @@ Then upload it to your repo and add this at the top of README:
   <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/banner.png" />
 </p>
 ````
-
-Replace `YOURUSERNAME` with your GitHub name.
-
----
-
-## 🧪 STEP 4 — Add Skill Badges (Like Colored Labels)
-
-Add this under skills section:
 
 ```markdown
 ![Rust](https://img.shields.io/badge/Rust-Learning-orange)
