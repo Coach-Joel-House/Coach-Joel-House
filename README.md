@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=COACH%20JOEL%20INTERLINK%20LABS&fontSize=42&fontAlignY=40&desc=SYSTEM_STATUS:%20ONLINE%20|%20BLOCKCHAIN%20%2B%20AI%20ENGINEER&descFontSize=18&fontColor=00FFFF&stroke=00FFFF&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=COACH%20JOEL%20HOUSE%20_0.1.0&fontSize=42&fontAlignY=40&desc=SYSTEM_STATUS:%20ONLINE%20|%20BLOCKCHAIN%20%2B%20AI%20ENGINEER&descFontSize=18&fontColor=00FFFF&stroke=00FFFF&strokeWidth=2"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -48,7 +48,7 @@ AI-assisted engineering workflows, and decentralized technologies** designed for
 <pre>
 > Node Status        : SYNCHRONIZED
 > Development Layer  : AI-ASSISTED
-> Core Network       : INTERLINK
+> Core Network       : PROOF OF WORK
 > Activity State     : CONTINUOUS INTEGRATION
 </pre>
 
